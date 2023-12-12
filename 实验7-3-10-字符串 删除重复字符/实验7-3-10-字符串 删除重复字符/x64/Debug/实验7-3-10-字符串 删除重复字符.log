@@ -1,6 +1,0 @@
-﻿  test.c
-D:\Github\PTA\实验7-3-10-字符串 删除重复字符\实验7-3-10-字符串 删除重复字符\test.c(11,2): warning C4013: “gets”未定义；假设外部返回 int
-D:\Github\PTA\实验7-3-10-字符串 删除重复字符\实验7-3-10-字符串 删除重复字符\test.c(13,38): warning C4090: “函数”: 不同的“const”限定符
-D:\Github\PTA\实验7-3-10-字符串 删除重复字符\实验7-3-10-字符串 删除重复字符\test.c(13,31): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
-D:\Github\PTA\实验7-3-10-字符串 删除重复字符\实验7-3-10-字符串 删除重复字符\test.c(12,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  实验7-3-10-字符串 删除重复字符.vcxproj -> D:\Github\PTA\实验7-3-10-字符串 删除重复字符\x64\Debug\实验7-3-10-字符串 删除重复字符.exe
