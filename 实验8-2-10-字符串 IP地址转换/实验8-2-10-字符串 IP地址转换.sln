@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实验8-2-10-字符串 IP地址转换", "实验8-2-10-字符串 IP地址转换\实验8-2-10-字符串 IP地址转换.vcxproj", "{B68B5D73-E754-4484-B1AE-748F34749B01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68B5D73-E754-4484-B1AE-748F34749B01}.Debug|x64.ActiveCfg = Debug|x64
+		{B68B5D73-E754-4484-B1AE-748F34749B01}.Debug|x64.Build.0 = Debug|x64
+		{B68B5D73-E754-4484-B1AE-748F34749B01}.Debug|x86.ActiveCfg = Debug|Win32
+		{B68B5D73-E754-4484-B1AE-748F34749B01}.Debug|x86.Build.0 = Debug|Win32
+		{B68B5D73-E754-4484-B1AE-748F34749B01}.Release|x64.ActiveCfg = Release|x64
+		{B68B5D73-E754-4484-B1AE-748F34749B01}.Release|x64.Build.0 = Release|x64
+		{B68B5D73-E754-4484-B1AE-748F34749B01}.Release|x86.ActiveCfg = Release|Win32
+		{B68B5D73-E754-4484-B1AE-748F34749B01}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B49B342-F0D3-4E55-9565-C293085A9D1A}
+	EndGlobalSection
+EndGlobal
