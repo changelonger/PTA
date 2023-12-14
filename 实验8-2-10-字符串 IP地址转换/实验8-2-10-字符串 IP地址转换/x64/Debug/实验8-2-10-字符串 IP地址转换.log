@@ -1,4 +1,0 @@
-﻿  test.c
-D:\Github\PTA\实验8-2-10-字符串 IP地址转换\实验8-2-10-字符串 IP地址转换\test.c(10,13): warning C4133: “初始化”: 从“char *”到“double *”的类型不兼容
-D:\Github\PTA\实验8-2-10-字符串 IP地址转换\实验8-2-10-字符串 IP地址转换\test.c(18,23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  实验8-2-10-字符串 IP地址转换.vcxproj -> D:\Github\PTA\实验8-2-10-字符串 IP地址转换\x64\Debug\实验8-2-10-字符串 IP地址转换.exe

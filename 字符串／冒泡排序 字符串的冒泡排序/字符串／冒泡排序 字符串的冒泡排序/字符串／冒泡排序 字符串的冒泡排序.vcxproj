@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{92e76b64-5c26-45c6-ab57-ec0fc60ffb2b}</ProjectGuid>
+    <ProjectGuid>{0c05fcfe-574f-4a00-b6ed-0a82fd09bb98}</ProjectGuid>
     <RootNamespace>字符串冒泡排序字符串的冒泡排序</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
